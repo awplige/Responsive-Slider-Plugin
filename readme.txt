@@ -1,60 +1,67 @@
-=== Slider Plugin ===
+=== Responsive Slider Plugin ===
 Contributors: awordpresslife
-Tags: slider, slider pluign, responsive slider, wordpress slider, image slider, slide show pluign, slider shortcode, widget slider, best slider plugin, top slider pluign, free slider plugin, amazing slider 
+Tags: slider, slide, slide show, carousel, gallery, slideshow, image slider, slider gallery, slides, slider plugin, wordpress slider plugin, responsive slider, slider, plugin, shortcode, widget, widget slider, content slider, touch slider, picture slider, photo slider, album slider, shortcode, widget
 Donate link: http://awplife.com/
-Requires at least: 4.0
+Requires at least: 3.8
 Tested up to: 4.7
-Stable tag: 0.4.2
+Stable tag: 0.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress Slider Plugin Easy Powerful CSS & JS Based Image Slider Plugin
-
+Responsive slider plugin for your WordPres website
 
 == Description ==
-A Responsive Simple Beautiful Easy Powerful CSS & JS Based WordPress Image Slider Plugin. 
+Fully Responsive Light Weight Easy Powerful WordPress Slider Slideshow Plugin
 
-Slider plugin provides a powerful engine for adding photo or image slides, with the ability to batch upload, import media data, add/delete/rearrange/sort slides and more. You can publish slider at front-end on the blog post, page and in all widget areas available in the theme.
+Slider plugin provides a powerful engine for adding photo or image slides, with the ability to batch upload, import media data, add/delete/rearrange/sort slides and more. You can publish slider at front-end on blog post, page and in all widget areas available in theme.
 
 Create slider from plugin admin dashboard and copy the slider generated shortcode at bottom of slider setting. Embed copied slider shortcode into any blog Page, post, widget area and publish on your blog.
 
-**Q. How slider shortcode look like?**
+https://www.youtube.com/watch?v=6r0dKC7XCxI
 
-Ans. It's look like: `[responsive-slider id=111]` Here `id = 111` is your slider post id.
+Q. How slider shortcode look like?
 
+Ans. It's look like: `[awl-slider id=111]` Here `id = 111` is your slider post id.
 
-= SLIDER PRO FEATURES AND DEMO =
+**<a href="http://demo.awplife.com/slider-responsive-slideshow-standard/">Try Plguin Demo</a>**
+
+= RESPONSIVE SLIDER PRO FEATURES AND DEMO =
 
 > #### **Demo for Lite and Pro Version**
 
-> * [Responsive Image Slider](http://demo.awplife.com/responsive-slider-gallery-premium/ "Responsive Image Slider")
-> * [Slider With Sidebar](http://demo.awplife.com/responsive-slider-gallery-premium/slider-with-sidebar/ "Slider With Sidebar")
-> * [Slider With Custom Width & Height](http://demo.awplife.com/responsive-slider-gallery-premium/slider-with-custom-width-height/ "Slider With Custom Width & Height")
-> * [Slider Navigation Styles](http://demo.awplife.com/responsive-slider-gallery-premium/slider-navigation-styles/ "Slider Navigation Styles")
-> * [Full Screen Style](http://demo.awplife.com/responsive-slider-gallery-premium/full-screen-style/ "Full Screen Style")
-> * [Slider Transition Style](http://demo.awplife.com/responsive-slider-gallery-premium/slider-transition-style/ "Slider Transition Style")
-> * [Slider In Widget Area](http://demo.awplife.com/responsive-slider-gallery-premium/slider-in-widget-area/ "Slider In Widget Area")
-> * [Slider With Text On Slide](http://demo.awplife.com/responsive-slider-gallery-premium/slider-with-text-on-slide/ "Slider With Text On Slide")
-> * [Try Admin Demo](http://demo.awplife.com/responsive-slider-gallery-premium-admin/ "Try Admin Demo")
-> * [Get Premium Version](http://awplife.com/account/signup/responsive-slider-gallery "Get Premium Version")
+> * [Slider Responsive Sideshow Premium](http://demo.awplife.com/slider-responsive-slideshow-premium/ "Slider Responsive Sideshow Premium")
+> * [Multiple Slides](http://demo.awplife.com/slider-responsive-slideshow-premium/multiple-slides/ "Multiple Slides")
+> * [Transitions Effect](http://demo.awplife.com/slider-responsive-slideshow-premium/transitions-effect/ "Transitions Effect")
+> * [Slider In Slidebar Widget](http://demo.awplife.com/slider-responsive-slideshow-premium/slider-in-slidebar-widget/ "Slider In Slidebar Widget")
+> * [Slider With Content](http://demo.awplife.com/slider-responsive-slideshow-premium/slider-with-content/ "Slider With Content")
+> * [Try Admin Demo](http://demo.awplife.com/slider-responsive-slideshow-premium-admin/ "Try Admin Demo")
+> * [Buy Premium Version](http://awplife.com/account/signup/slider-responsive-slideshow "Buy Premium Version")
 
 
 **Major features in standard slider plugin include:**
 
 * Responsive Slider Design
-* Slider Customization
+* Carousel Slider Plugin
+* Slider Customization Settings
 * Sidebar Widget Slide Show
 * Footer Widget Slide Show
-* Full-Screen Slide Show
-* Many Customization Settings
-* Embed Slider Into any your theme template
+* Embed Slider into any your theme template
 * Standard WordPress Import and Export
 * Slide Navigation
+* Touch Slide
+* Auto Play Slider Slide Show
 * Cross Browser Compatibility
+* Slide Navigation Control
+* Slider with Title
+* Slider with Descriptions
+* Slider with Link
+* Link Slider
+* Widget Slider
+* Footer Widget Slider
+* Content Slider
+* Theme Slider
 
-**<a href="http://demo.awplife.com/responsive-slider-gallery-standard/">Try Plguin Demo</a>**
-
-**<a href="http://awplife.com/portfolio/responsive-slider-gallery-premium/">LEARN MORE ABOUT - Responsive Slider Premium</a>**
+**<a href="http://awplife.com/product/slider-responsive-slideshow-premium/">LEARN MORE ABOUT - Responsive Slider Premium</a>**
 
 = Recommended Plugins =
 
@@ -92,9 +99,9 @@ The following are other recommended plugins by the author:
 
 **Buy Premium Plugin - <a href="http://awplife.com/product/contact-form-premium/">Click Here</a>**
 
-* [Best Responsive Slider Plugin](https://wordpress.org/plugins/slider-responsive-slideshow/ "Responsive Slider Plugin") - Fully Responsive Light Weight Easy Powerful WordPress Slider Slideshow Plugin.
+* [Slider Plugin](https://wordpress.org/plugins/responsive-slider-gallery/ "Slider Plugin") - Fully Responsive Slider Gallery For Wordpress ,You can Show Slider Into Page/Post & Widget/Sidebar By Generate Shortcode.
 
-**Buy Premium Plugin - <a href="http://awplife.com/product/slider-responsive-slideshow-premium//">Click Here</a>**
+**Buy Premium Plugin - <a href="http://awplife.com/product/responsive-slider-gallery-premium/">Click Here</a>**
 
 * [Video Gallery Plugin](https://wordpress.org/plugins/new-video-gallery/ "Best Video Gallery Plugin") - The Best Responsive video gallery For Wordpress.
 
@@ -108,23 +115,22 @@ The following are other recommended plugins by the author:
  
 
 == Installation ==
-Install Responsive Slider Gallery either via the WordPress.org plugin directory or by uploading the files to your server.
+Install Slider either via the WordPress.org plugin directory, or by uploading the files to your server.
 
-After activating Responsive Slider Gallery, go to plugin menu.
+After activating Slider plugin, go to plugin menu.
 
-Click Add New Gallery and upload image slides.
+Click Add New Slider and upload image slides.
 
-Publish the slider gallery and copy slider gallery shortcode from the bottom of the slider setting and embed shortcode on any Page/Post/Text Widget.
+Publish the slider and copy slider shortcode from bottom of the slider setting and embed shortcode on any Page/Post/Text Widget.
 
 That's it. You're ready to go!
 
 == Frequently Asked Questions ==
-
 Have any queries?
 
 Please post your question on plugin support forum
 
-https://wordpress.org/support/plugin/responsive-slider-gallery
+https://wordpress.org/support/plugin/slider-responsive-slideshow/
 
 == Screenshots ==
 1. Slide Show Preview
@@ -134,170 +140,155 @@ https://wordpress.org/support/plugin/responsive-slider-gallery
 5. Slide Show Preview
 6. Slide Show Preview
 7. Slide Show Preview
-8. Slide Show Preview
-9. Slide Show Preview
-10. Slide Show Preview
-11. Slide Show Preview
 
 == Changelog ==
-Feature Enhancements: Version 0.4.2
-* Enhancements: none
-* Bug Fix: None
-* Additional changes: None
-
 Feature Enhancements: Version 0.4.1
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.4.0
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.9
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.8
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.7
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.6
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.5
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
-* Additional changes: None
+* Additional changes: compatible for new wordpress version 4.7
 
 Feature Enhancements: Version 0.3.4
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
-* Additional changes: None
+* Additional changes: Yes, User interface layout change
 
 Feature Enhancements: Version 0.3.3
-* Enhancements: none
+* Enhancements: None
 * Bug Fix: None
-* Additional changes: None
+* Additional changes: Yes, User interface layout change
 
 Feature Enhancements: Version 0.3.2
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.1
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.3.0
-* Enhancements: Compatibility test done
+* Enhancements: None
+* Bug Fix: None
+* Additional changes: None
+
+Feature Enhancements: Version 0.2.10
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.2.9
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
-* Additional changes: Buttons added for premium version 
+* Additional changes: None
 
 Feature Enhancements: Version 0.2.8
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
-* Additional changes: Buttons added for premium version 
+* Additional changes: None
 
 Feature Enhancements: Version 0.2.7
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.2.6
-* Enhancements: Compatibility test done
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
 Feature Enhancements: Version 0.2.5
-* Enhancements: Compatibility test done
+* Enhancements: None
+* Bug Fix: None
+* Additional changes: None
+
+Feature Enhancements: Version 0.2.4
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: Working On New Wordpress Version
 
-Feature Enhancements: Version 0.2.4
-* Enhancements: Compatibility test done
+Feature Enhancements: Version 0.2.3
+* Enhancements: None
 * Bug Fix: None
 * Additional changes: None
 
-Feature Enhancements: Version 0.2.3
-* Minor Bug Fix
-
-Feature Enhancements: Version 0.2.2.1
-* link removed
-
 Feature Enhancements: Version 0.2.2
-* Minor Bug Fix
+* minor bug fix
 
 Feature Enhancements: Version 0.2.1
-* compatible with latest WordPress version 4.4.2
-* Minor Bug Fix
+* link removed
 
 Feature Enhancements: Version 0.2.0
-* Minor Bug Fix
+* minor bug fix
 
 Feature Enhancements: Version 0.1.9
-* <a> tag bug fix
+* compatible with latest WordPress version 4.4.2
+* minor bug fix
 
-Feature Enhancements: Version 0.1.9
+Feature Enhancements: Version 0.1.8
+* minor bug fix
+
+Feature Enhancements: Version 0.1.7
 * <a> tag bug fix
 * compatible with latest WordPress version 4.4.1
 
-Feature Enhancements: Version 0.1.8
-* Minor Bug Fix
-
-Feature Enhancements: Version 0.1.7
-* Minor Bug Fix
-
 Feature Enhancements: Version 0.1.6
-* Minor Bug Fix
+* minor bug fix
 
 Feature Enhancements: Version 0.1.5
-* Minor Bug Fix
+* minor bug fix
 
 Feature Enhancements: Version 0.1.4
-* Minor CSS test
+* minor bug fix
 
 Feature Enhancements: Version 0.1.3
-* WP 4.4 compatible test done
+* minor bug fix
 
 Feature Enhancements: Version 0.1.2
-* Enhancements: None
-* Bug Fix: None
-* Additional changes: plugin readme updated
+* minor bug fix
 
 Feature Enhancements: Version 0.1.1
-* Enhancements: Compatibility test done
-* Bug Fix: None
-* Additional changes: None
+* WP 4.4 compatible test done
 
 Feature Enhancements: Version 0.1.0
-* Enhancements: Custom Height & Width Setting
-* Enhancements: Betch Uploader
-* Enhancements: Thumbnails Setting
+* Enhancements: No Of Slide Settings
+* Enhancements: Slide Speed
+* Enhancements: Batch Uploader
+* Enhancements: Slider Text as Title Descriptions and Link
 * Enhancements: Single & Multiple Slide Deletion
-* Enhancements: Navigation Style Setting
-* Enhancements: Navigation Arrow Setting
-* Enhancements: Full Screen Setting
 * Enhancements: Touch Slide Enable
-* Enhancements: Slide Loading Spinner
 * Bug Fix: None
 * Additional changes: None
 
 == Upgrade Notice ==
-This is an Initial release. Start with version 0.1 and share your feedback <a href="https://wordpress.org/support/view/plugin-reviews/responsive-slider-gallery/">here</a>.
+This is an initial release. Start with version 0.1.0 and share your feedback <a href="https://wordpress.org/support/view/plugin-reviews/slider-responsive-slideshow/">here</a>.
